@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-animated-vector-drawable-25.3.1_4080717db40512857f1bb16b18d7af93b4f70fea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-v4-25.3.1_788fdad4fb5585a057f030b8a0b396b909b459cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-transition-25.3.1_537d3d6f2faf4cc92ba547a463e14c6e9cae102f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/intermediates-exploded-aar-widgets-release_f235417abf349529aecd787bb1c933b5eae5e101.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-core-ui-25.3.1_50caec789f6d73d0e935f9f99f05f8043a25fec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-media-compat-25.3.1_fe63f723f185cb6759d33544301097ec8af3aef4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/exploded-aar/groceries/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="30b97ea5d6274e02330dcc69943087778363c172">
+        <dex dex="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/groceries-runtime-unspecified_ba989fa28b22050647cd5984163e039e85ec7cc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/francop/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/support-annotations-25.3.1_b866ae9fdc8d282df9122107ea179f793d9174ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-appcompat-v7-25.3.1_70bb6292ac2b60d606aacc5921313678d1864804.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.google.android.gms-play-services-base-10.2.6_08fa3471493b60e2d24b01996fc6f6a2a93596f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-vector-drawable-25.3.1_5acdfb036b5b695036c011383d0634a4c33780a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
+        <dex dex="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.google.android.gms-play-services-maps-10.2.6_25488e0aa88af2252eb61c91a426bbdb108ebb21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-core-utils-25.3.1_12192e47584af3675c717c1be597e74861f12c09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.google.android.gms-play-services-basement-10.2.6_153c42c1312b4ec00cb5b5a034f85d3ad8b6f0f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-compat-25.3.1_0047a4ea6cfabde0c95f5a423ae0b75a47326c22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-recyclerview-v7-25.3.1_b314f1f77aa219ee10b4ee8e959711ad7f962863.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-design-25.3.1_1636af44bb33e17712cd476ab47b4fd2c137d233.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/exploded-aar/groceries/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/binding-generator_724b438b1efec8b74c8f365adb752e77e5bb434e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.google.android.gms-play-services-tasks-10.2.6_ee6d14cde8005aec9748030684006a34130063f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/pre-dexed/F0F1F2/debug/com.android.support-support-fragment-25.3.1_2cef46b26eb3f9f40e0729259d966ffd845a7954.jar" />
+    </item>
+
+</items>

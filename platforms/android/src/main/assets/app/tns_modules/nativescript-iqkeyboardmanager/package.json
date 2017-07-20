@@ -1,0 +1,85 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nativescript-iqkeyboardmanager@1.0.1",
+        "scope": null,
+        "escapedName": "nativescript-iqkeyboardmanager",
+        "name": "nativescript-iqkeyboardmanager",
+        "rawSpec": "1.0.1",
+        "spec": "1.0.1",
+        "type": "version"
+      },
+      "/home/francop/nativeScript/sample-Groceries"
+    ]
+  ],
+  "_from": "nativescript-iqkeyboardmanager@1.0.1",
+  "_id": "nativescript-iqkeyboardmanager@1.0.1",
+  "_inCache": true,
+  "_location": "/nativescript-iqkeyboardmanager",
+  "_nodeVersion": "4.2.1",
+  "_npmOperationalInternal": {
+    "host": "packages-13-west.internal.npmjs.com",
+    "tmp": "tmp/nativescript-iqkeyboardmanager-1.0.1.tgz_1458565195534_0.023921431740745902"
+  },
+  "_npmUser": {
+    "name": "tjvantoll",
+    "email": "tj.vantoll@gmail.com"
+  },
+  "_npmVersion": "2.14.7",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nativescript-iqkeyboardmanager@1.0.1",
+    "scope": null,
+    "escapedName": "nativescript-iqkeyboardmanager",
+    "name": "nativescript-iqkeyboardmanager",
+    "rawSpec": "1.0.1",
+    "spec": "1.0.1",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-iqkeyboardmanager/-/nativescript-iqkeyboardmanager-1.0.1.tgz",
+  "_shasum": "c22fca4b4b6e4763e725cf200092160777960732",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-iqkeyboardmanager@1.0.1",
+  "_where": "/home/francop/nativeScript/sample-Groceries",
+  "author": {
+    "name": "TJ VanToll",
+    "email": "tj.vantoll@gmail.com",
+    "url": "http://tjvantoll.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/tjvantoll/nativescript-IQKeyboardManager/issues"
+  },
+  "dependencies": {},
+  "description": "NativeScript wrapper of the popular IQKeyboardManager iOS library",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "c22fca4b4b6e4763e725cf200092160777960732",
+    "tarball": "https://registry.npmjs.org/nativescript-iqkeyboardmanager/-/nativescript-iqkeyboardmanager-1.0.1.tgz"
+  },
+  "gitHead": "89a782a08a89d0436c46853e987f7db54b85c656",
+  "homepage": "https://github.com/tjvantoll/nativescript-IQKeyboardManager",
+  "license": {
+    "type": "MIT"
+  },
+  "maintainers": [
+    {
+      "name": "tjvantoll",
+      "email": "tj.vantoll@gmail.com"
+    }
+  ],
+  "name": "nativescript-iqkeyboardmanager",
+  "nativescript": {
+    "platforms": {
+      "ios": "1.4.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {},
+  "version": "1.0.1"
+}

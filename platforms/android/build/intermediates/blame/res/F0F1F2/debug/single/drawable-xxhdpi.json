@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/menu.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/menu.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/ic_menu.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/ic_menu.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/checked_white.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/checked_white.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/banana.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/banana.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/selected.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/selected.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/ic_unchecked.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/ic_unchecked.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/nonselected.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/nonselected.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/unchecked.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/unchecked.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/icon.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/logo_signup.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/logo_signup.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/ic_checked.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/ic_checked.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/ic_delete.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/ic_delete.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/delete.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/delete.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/ic_checked_white.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/ic_checked_white.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/pear.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/pear.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/ic_selected.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/ic_selected.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/ic_nonselected.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/ic_nonselected.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/logo_login.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/logo_login.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/recent.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/recent.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/checked.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/checked.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/ic_add.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/ic_add.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/ic_unchecked_white.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/ic_unchecked_white.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/unchecked_white.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/unchecked_white.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/add.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/add.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/rec_pin.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/rec_pin.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/apple.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/apple.png"
+    },
+    {
+        "merged": "/home/francop/nativeScript/sample-Groceries/platforms/android/build/intermediates/res/merged/F0F1F2/debug/drawable-xxhdpi/ic_recent.png",
+        "source": "/home/francop/nativeScript/sample-Groceries/platforms/android/src/main/res/drawable-xxhdpi/ic_recent.png"
+    }
+]
